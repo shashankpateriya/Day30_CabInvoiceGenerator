@@ -43,6 +43,5 @@ namespace CabInvoiceGeneratorTest
             InvoiceSummary expectedSummary = new InvoiceSummary(2, 35.0);
             Assert.AreEqual(expectedSummary.GetType(), summary.GetType());
         }
-
     }
 }
