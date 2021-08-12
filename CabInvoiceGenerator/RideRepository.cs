@@ -42,6 +42,5 @@ namespace CabInvoiceGenerator
                 throw new CabInvoiceException(CabInvoiceException.ExceptionType.INVALID_USER_ID, "Invalid user ID");
             }
         }
-
     }
 }
