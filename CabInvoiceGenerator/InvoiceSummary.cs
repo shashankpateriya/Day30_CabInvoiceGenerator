@@ -29,4 +29,5 @@ namespace CabInvoiceGenerator
             return this.numberOfRides.GetHashCode() ^ this.totalFare.GetHashCode() ^ this.averageFare.GetHashCode();
         }
     }
+
 }
