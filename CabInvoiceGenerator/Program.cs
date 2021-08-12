@@ -12,4 +12,5 @@ namespace CabInvoiceGenerator
             Console.WriteLine($"Fare : {fare}");
         }
     }
+
 }
